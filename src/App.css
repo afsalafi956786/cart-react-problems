@@ -1,0 +1,29 @@
+.div{
+    display: flex;
+    justify-content: center;
+
+}
+.heading{
+    text-align: center;
+}
+.btn-div{
+    padding-top: 16px;
+    justify-content: center;
+    display: flex;
+}
+.div-star{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.stars{
+    cursor: pointer;
+}
+
+.text-yellow{
+    color: yellow;
+}
+.text-black{
+    color: black;
+}
